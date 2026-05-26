@@ -1,4 +1,4 @@
-# Pollo Alert
+# pollo-alert 🤙 🐔
 
 Un sencillo proyecto web que implementa una alerta modal interactiva que se muestra al cargar la página. El modal incluye una imagen (`si.png`) y puede ser cerrado mediante un botón o presionando la tecla **Escape**.
 
